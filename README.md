@@ -2,8 +2,6 @@
 
 > Série přednášek a workshopů v 🇨🇿 českém a 🇸🇰 slovenském jazyce na téma digitální autonomie a svobody.
 
-Každá událost má za cíl představit nějaké téma z oblasti digitální autonomie srozumitelnou formou široké veřejnosti.
-
 Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organizuje [PP0 Events](https://pp0.events).
 
 ## Přehled
