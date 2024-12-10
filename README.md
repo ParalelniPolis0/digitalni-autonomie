@@ -39,7 +39,14 @@ Seznámení s platformou [Radicle](https://radicle.xyz/), která nabízí nový 
 
 ### DA02 - Decentralizované sociální sítě
 
-> 🚧 Tato událost je ve fázi přípravy. Uvedené informace se mohou změnit.  
+> 🚧 Tato událost je ve fázi přípravy. Uvedené informace se mohou změnit.
+
+*\* - není potvrzeno*
+
+| Město | Datum | Místo | Kapacita | RSVP |
+| --- | --- | --- | --- | --- |
+| Praha | ??.3.2025* | TBA | ? lidí | TBA |
+| Brno | ??.3.2025* | TBA | ? lidí | TBA |
 
 Seznámení s novou generací sociálních sítí [Nostr](https://nostr.com/) a [AT Protocol](https://atproto.com/) (Bluesky), které fungují na otevřených protokolech. Dozvíte se, jak tyto sítě fungují, v čem se liší od běžných sociálních sítí a jaké přinášejí výhody - například možnost přenositelnosti účtů nebo mít skutečnou kontrolu nad svými daty. V praktické části si vyzkoušíme, jak tyto sítě používat.
 
@@ -51,6 +58,13 @@ Seznámení s novou generací sociálních sítí [Nostr](https://nostr.com/) a 
 ### DA03 - Svobodné rádiové sítě (Reticulum)
 
 > 🚧 Tato událost je ve fázi přípravy. Uvedené informace se mohou změnit.  
+
+*\* - není potvrzeno*
+
+| Město | Datum | Místo | Kapacita | RSVP |
+| --- | --- | --- | --- | --- |
+| Praha | 25.6.2025* | [Ambasáda](https://ambasada.cz/)*<br>Pod kaštany 12, Praha 6 | 50 lidí | TBA |
+| Brno | 26.6.2025* | TBA | 50 lidí | TBA |
 
 Seznámení s protokolem [Reticulum](https://reticulum.network/) pro budování svobodných rádiových sítí. Dozvíte se základní principy mesh sítí, jak funguje komunikace přes LoRa moduly a jak postavit vlastní komunikační uzel. V praktické části si vyzkoušíme sestavení základního hardware, instalaci potřebného software a vytvoření jednoduché mesh sítě pro přenos zpráv a dat.
 
