@@ -6,18 +6,19 @@ Každá událost má za cíl představit nějaké téma z oblasti digitální au
 
 Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organizuje [PP0 Events](https://pp0.events).
 
-# Přehled
+## Přehled
 
 | | Téma | Termín |
 | --- | --- | --- |
 | `DA01` | [Decentralizovaná spolupráce na kódu (Radicle)](#da01---decentralizovan%C3%A1-spolupr%C3%A1ce-na-k%C3%B3du-radicle) | Leden 2025 |
 | `DA02` | [Decentralizované sociální sítě](#da02---decentralizovan%C3%A9-soci%C3%A1ln%C3%AD-s%C3%ADt%C4%9B) | Březen 2025 |
-| `DA03` | [Digitální sebeobrana (2025)](#da03---digit%C3%A1ln%C3%AD-sebeobrana-2025) | Září 2025 |
-| `DA04` | [Programovatelné peníze (Ethereum)](#da04---programovateln%C3%A9-pen%C3%ADze-ethereum) | Listopad 2025 |
+| `DA03` | [Svobodné rádiové sítě (Reticulum)](#da03---svobodn%C3%A9-r%C3%A1diov%C3%A9-s%C3%ADt%C4%9B-reticulum) | Červen 2025 |
+| `DA04` | [Programovatelné peníze (Ethereum)](#da04---programovateln%C3%A9-pen%C3%ADze-ethereum) | Září 2025 |
+| `DA05` | [Digitální sebeobrana (2025)](#da05---digit%C3%A1ln%C3%AD-sebeobrana-2025) | Listopad 2025 |
 
-# Události
+## Události
 
-## DA01 - Decentralizovaná spolupráce na kódu (Radicle)
+### DA01 - Decentralizovaná spolupráce na kódu (Radicle)
 
 > 🚧 Tato událost je ve fázi přípravy. Uvedené informace se mohou změnit.  
 
@@ -34,7 +35,9 @@ Seznámení s platformou [Radicle](https://radicle.xyz/), která nabízí nový 
 - Autoři: [Tree](https://paralelnipolis.info/p/tree) (PP0), [Václav Pavlín](https://paralelnipolis.info/p/vaclav-pavlin) (Waku, Logos) [nepotvrzeno]
 - Partneři: [Radworks](https://radworks.org/) (nepotvrzeno)
 
-## DA02 - Decentralizované sociální sítě
+---
+
+### DA02 - Decentralizované sociální sítě
 
 > 🚧 Tato událost je ve fázi přípravy. Uvedené informace se mohou změnit.  
 
@@ -43,16 +46,22 @@ Seznámení s novou generací sociálních sítí [Nostr](https://nostr.com/) a 
 - Autoři: [Tree](https://paralelnipolis.info/p/tree) (PP0)
 - Partneři: [Bluesky Česko](https://bsky.cz), [Openvibe](https://openvibe.social/) (nepotvrzeno)
 
-## DA03 - Digitální sebeobrana (2025)
+---
+
+### DA03 - Svobodné rádiové sítě (Reticulum)
 
 > 🚧 Tato událost je ve fázi přípravy. Uvedené informace se mohou změnit.  
 
-Aktualizovaný pohled na digitální bezpečnost a soukromí v roce 2025. Workshop se zaměří na praktické nástroje a postupy pro ochranu osobních dat, bezpečnou komunikaci a správu digitální identity. Účastníci se naučí základní principy šifrování, správu hesel, bezpečné procházení internetu a jak minimalizovat svou digitální stopu.
+Seznámení s protokolem [Reticulum](https://reticulum.network/) pro budování svobodných rádiových sítí. Dozvíte se základní principy mesh sítí, jak funguje komunikace přes LoRa moduly a jak postavit vlastní komunikační uzel. V praktické části si vyzkoušíme sestavení základního hardware, instalaci potřebného software a vytvoření jednoduché mesh sítě pro přenos zpráv a dat.
 
-- Autoři: [Sodomák](https://paralelnipolis.info/p/sodomak) (nepotvrzeno)
-- Partneři: ?
+Událost se koná v souvislosti s mezinárodním hack-day [Sovereign Routes 2025](https://lu.ma/t9s3fo9l), který se bude konat v červnu v Praze.
 
-## DA04 - Programovatelné peníze (Ethereum)
+- Autoři: [Juraj Bednar](https://paralelnipolis.info/p/juraj-bednar) (nepotvrzeno), [Tree](https://paralelnipolis.info/p/tree) (PP0)
+- Partneři: [Seeed Technology](https://www.seeedstudio.com/) (nepotvrzeno)
+
+---
+
+### DA04 - Programovatelné peníze (Ethereum)
 
 > 🚧 Tato událost je ve fázi přípravy. Uvedené informace se mohou změnit.  
 
@@ -60,3 +69,14 @@ Seznámení s revolucí, kterou přináší programovatelné peníze a [Ethereum
 
 - Autoři: [Tree](https://paralelnipolis.info/p/tree) (PP0)
 - Partneři: [Gwei.cz](https://gwei.cz/), [PWN](https://pwn.xyz/) (nepotvrzeno)
+
+---
+
+### DA05 - Digitální sebeobrana (2025)
+
+> 🚧 Tato událost je ve fázi přípravy. Uvedené informace se mohou změnit.  
+
+Aktualizovaný pohled na digitální bezpečnost a soukromí v roce 2025. Workshop se zaměří na praktické nástroje a postupy pro ochranu osobních dat, bezpečnou komunikaci a správu digitální identity. Účastníci se naučí základní principy šifrování, správu hesel, bezpečné procházení internetu a jak minimalizovat svou digitální stopu.
+
+- Autoři: [Sodomák](https://paralelnipolis.info/p/sodomak) (nepotvrzeno)
+- Partneři: ?
