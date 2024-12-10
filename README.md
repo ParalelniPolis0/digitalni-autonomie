@@ -23,15 +23,15 @@ Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organiz
 
 *\* - datum není finální, může se změnit*
 
-| Město | Datum | Místo | RSVP |
-| --- | --- | --- | --- |
-| Praha | 22.1.2025* | TBA | https://lu.ma/557bfaya |
-| Brno | 29.1.2025* | TBA | https://lu.ma/v8dr36eb |
-| Košice | 5.2.2025* | Paralelná Polis Košice | TBA |
+| Město | Datum | Místo | Kapacita | RSVP |
+| --- | --- | --- | --- | --- |
+| Praha | 22.1.2025* | TBA | 50 lidí | https://lu.ma/557bfaya |
+| Brno | 29.1.2025* | TBA | 50 lidí | https://lu.ma/v8dr36eb |
+| Košice | 5.2.2025* | [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) | 30 lidí | TBA |
 
-Seznámení s platformou [Radicle](https://radicle.xyz/), která nabízí nový způsob spolupráce na softwarových projektech bez závislosti na centralizovaných službách jako GitHub. Dozvíte se, jak Radicle funguje, v čem se liší od běžných platforem a jaké přináší výhody pro vývojáře i open-source komunity. Součástí bude teoretický úvod i praktický workshop, kde si vše vyzkoušíme.
+Seznámení s platformou [Radicle](https://radicle.xyz/), která nabízí nový způsob spolupráce na softwarových projektech bez závislosti na centralizovaných službách jako GitHub. Dozvíte se, jak Radicle funguje, v čem se liší od běžných platforem a jaké přináší výhody pro vývojáře i open-source komunity. Součástí bude teoretický úvod i praktický workshop, kde si vše vyzkoušíme. Notebook si vezměte sebou!
 
-- Autoři: [Tree](https://paralelnipolis.info/p/tree), [Václav Pavlín](https://paralelnipolis.info/p/vaclav-pavlin) (nepotvrzeno)
+- Autoři: [Tree](https://paralelnipolis.info/p/tree) (PP0), [Václav Pavlín](https://paralelnipolis.info/p/vaclav-pavlin) (Waku, Logos) [nepotvrzeno]
 - Partneři: [Radworks](https://radworks.org/) (nepotvrzeno)
 
 ## DA02 - Decentralizované sociální sítě
@@ -40,7 +40,7 @@ Seznámení s platformou [Radicle](https://radicle.xyz/), která nabízí nový 
 
 Seznámení s novou generací sociálních sítí [Nostr](https://nostr.com/) a [AT Protocol](https://atproto.com/) (Bluesky), které fungují na otevřených protokolech. Dozvíte se, jak tyto sítě fungují, v čem se liší od běžných sociálních sítí a jaké přinášejí výhody - například možnost přenositelnosti účtů nebo mít skutečnou kontrolu nad svými daty. V praktické části si vyzkoušíme, jak tyto sítě používat.
 
-- Autoři: [Tree](https://paralelnipolis.info/p/tree)
+- Autoři: [Tree](https://paralelnipolis.info/p/tree) (PP0)
 - Partneři: [Bluesky Česko](https://bsky.cz), [Openvibe](https://openvibe.social/) (nepotvrzeno)
 
 ## DA03 - Digitální sebeobrana (2025)
@@ -58,5 +58,5 @@ Aktualizovaný pohled na digitální bezpečnost a soukromí v roce 2025. Worksh
 
 Seznámení s revolucí, kterou přináší programovatelné peníze a [Ethereum](https://ethereum.org/) platforma. Workshop představí základní koncepty chytrých kontraktů a ukáže, jak Ethereum mění způsob, jakým můžeme navrhovat organizace, aplikace a služby. Zaměříme se na nové možnosti pro vývojáře, podnikatele i běžné uživatele - od automatizovaných systémů přes decentralizované organizace až po nové formy spolupráce a správy digitálních zdrojů.
 
-- Autoři: [Tree](https://paralelnipolis.info/p/tree)
+- Autoři: [Tree](https://paralelnipolis.info/p/tree) (PP0)
 - Partneři: [Gwei.cz](https://gwei.cz/), [PWN](https://pwn.xyz/) (nepotvrzeno)
