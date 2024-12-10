@@ -11,7 +11,7 @@ Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak.
 | `DA01` | [Decentralizovaná spolupráce na kódu (Radicle)](#da01---decentralizovan%C3%A1-spolupr%C3%A1ce-na-k%C3%B3du-radicle) | Leden 2025 |
 | `DA02` | [Decentralizované sociální sítě](#da02---decentralizovan%C3%A9-soci%C3%A1ln%C3%AD-s%C3%ADt%C4%9B) | Duben 2025 |
 | `DA03` | [Digitální sebeobrana (2025)](#da03---digit%C3%A1ln%C3%AD-sebeobrana-2025) | Září 2025 |
-| `DA03` | [Programovatelné peníze (Ethereum)](#da04---programovateln%C3%A9-pen%C3%ADze-ethereum) | Listopad 2025 |
+| `DA04` | [Programovatelné peníze (Ethereum)](#da04---programovateln%C3%A9-pen%C3%ADze-ethereum) | Listopad 2025 |
 
 # Události
 
