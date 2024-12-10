@@ -4,6 +4,8 @@
 
 Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organizuje [PP0 Events](https://pp0.events).
 
+[Pravidla pro pořádání události](#pravidla-pro-po%C5%99%C3%A1d%C3%A1n%C3%AD-ud%C3%A1losti)
+
 ## Přehled
 
 | | Téma | Termín |
@@ -111,3 +113,39 @@ Aktualizovaný pohled na digitální bezpečnost a soukromí v roce 2025. Worksh
 
 - Autoři: [Sodomák](https://paralelnipolis.info/p/sodomak) (nepotvrzeno)
 - Partneři: ?
+
+---
+
+## Pravidla pro pořádání události
+
+### 1. Základní požadavky
+- Vstup musí být zdarma (pokud to není nezbytně nutné)
+- Událost musí být v českém nebo slovenském jazyce
+- Musí obsahovat teoretickou i praktickou část
+- Musí souviset s tématem digitální autonomie
+- Musí být přístupné a přínosné i pro úplné začátečníky v daném tématu
+- Musí poskytnout základní znalosti účastníkům bez předchozích zkušeností
+
+### 2. Požadavky na místo
+- Musí se konat minimálně ve 2 městech (typicky Praha a Brno)
+
+### 3. Časové požadavky
+- Musí mít naplánovaný měsíc/čtvrtletí konání
+- Události by měly být rozloženy během roku (ne nahromaděné v jednom období)
+
+### 4. Personální požadavky
+- Musí mít minimálně dva jmenované autory/přednášející
+- Musí mít organizační podporu PP0 Events
+- Mělo by mít relevantní partnery z oboru/komunity
+
+### 5. Pravidla účasti
+- Musí mít systém pro registraci/RSVP
+- Musí specifikovat, zda je potřeba speciální vybavení (např. notebook)
+- Musí dodržovat kapacitní limity místa konání
+ 
+### 6. Dokumentace
+- Musí mít jedinečný identifikační kód (ve tvaru `DA00`, pro nepotvrzené událostí `DAXX`)
+- Musí mít krátký popis události ve fázi plánování
+- Musí mít detailní popis po pevném vyhlášení události
+- Musí poskytnout kompletní informace o místě konání po potvrzení
+- Musí specifikovat přesnou kapacitu
