@@ -27,8 +27,8 @@ Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organiz
 | Město | Datum | Místo | Kapacita | RSVP |
 | --- | --- | --- | --- | --- |
 | Praha | 22.1.2025* | TBA | 50 lidí | https://lu.ma/557bfaya |
+| Košice | 23.1.2025* | [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) | 30 lidí | TBA |
 | Brno | 29.1.2025* | TBA | 50 lidí | https://lu.ma/v8dr36eb |
-| Košice | 5.2.2025* | [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) | 30 lidí | TBA |
 
 Seznámení s platformou [Radicle](https://radicle.xyz/), která nabízí nový způsob spolupráce na softwarových projektech bez závislosti na centralizovaných službách jako GitHub. Dozvíte se, jak Radicle funguje, v čem se liší od běžných platforem a jaké přináší výhody pro vývojáře i open-source komunity. Součástí bude teoretický úvod i praktický workshop, kde si vše vyzkoušíme. Notebook si vezměte sebou!
 
