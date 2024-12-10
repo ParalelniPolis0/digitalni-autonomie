@@ -30,7 +30,7 @@ Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organiz
 
 Seznámení s platformou [Radicle](https://radicle.xyz/), která nabízí nový způsob spolupráce na softwarových projektech bez závislosti na centralizovaných službách jako GitHub. Dozvíte se, jak Radicle funguje, v čem se liší od běžných platforem a jaké přináší výhody pro vývojáře i open-source komunity. Součástí bude teoretický úvod i praktický workshop, kde si vše vyzkoušíme. Notebook si vezměte sebou!
 
-- Autoři: [Tree](https://paralelnipolis.info/p/tree) (PP0), [Václav Pavlín](https://paralelnipolis.info/p/vaclav-pavlin) (Waku, Logos) [nepotvrzeno]
+- Autoři: [Tree](https://paralelnipolis.info/p/tree) (PP0), [Václav Pavlín](https://paralelnipolis.info/p/vaclav-pavlin) (Waku, Logos)
 - Partneři: [Radworks](https://radworks.org/) (nepotvrzeno)
 
 ---
