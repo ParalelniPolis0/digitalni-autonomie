@@ -26,7 +26,7 @@ Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organiz
 
 | Město | Datum | Místo | Kapacita | RSVP |
 | --- | --- | --- | --- | --- |
-| Praha | 22.1.2025* | [Ambasáda](https://ambasada.cz/)*<br>Pod kaštany 12, Praha 6 | 50 lidí | https://lu.ma/557bfaya |
+| Praha | 21.1.2025* | [Ambasáda](https://ambasada.cz/)*<br>Pod kaštany 12, Praha 6 | 50 lidí | https://lu.ma/557bfaya |
 | Košice | 23.1.2025* | [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/)*<br>Hlavná 36, Košice | 30 lidí | TBA |
 | Brno | 29.1.2025* | TBA | 50 lidí | https://lu.ma/v8dr36eb |
 
