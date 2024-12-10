@@ -2,7 +2,9 @@
 
 > Série přednášek a workshopů v 🇨🇿 českém a 🇸🇰 slovenském jazyce na téma digitální autonomie a svobody.
 
-Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak.
+Každá událost má za cíl představit nějaké téma z oblasti digitální autonomie srozumitelnou formou široké veřejnosti.
+
+Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organizuje [PP0 Events](https://pp0.events).
 
 # Přehled
 
@@ -24,18 +26,18 @@ Představení platformy [Radicle](https://radicle.xyz/) pro decentralizovanou sp
 
 ## DA02 - Decentralizované sociální sítě
 
-TODO
+Seznámení s novou generací sociálních sítí [Nostr](https://nostr.com/) a [AT Protocol](https://atproto.com/) (Bluesky), které fungují na otevřených protokolech. Dozvíte se, jak tyto sítě fungují, v čem se liší od běžných sociálních sítí a jaké přinášejí výhody - například možnost přenositelnosti účtů nebo mít skutečnou kontrolu nad svými daty. V praktické části si vyzkoušíme, jak tyto sítě používat.
 
 Spolupráce s [Bluesky Česko](https://bsky.cz) a [Openvibe](https://openvibe.social/) (nepotvrzeno).
 
 ## DA03 - Digitální sebeobrana (2025)
 
-TODO
+Aktualizovaný pohled na digitální bezpečnost a soukromí v roce 2025. Workshop se zaměří na praktické nástroje a postupy pro ochranu osobních dat, bezpečnou komunikaci a správu digitální identity. Účastníci se naučí základní principy šifrování, správu hesel, bezpečné procházení internetu a jak minimalizovat svou digitální stopu.
 
 Spolupráce se [Sodomákem](https://x.com/sodomak) (nepotvrzeno).
 
 ## DA04 - Programovatelné peníze (Ethereum)
 
-TODO
+Seznámení s revolucí, kterou přináší programovatelné peníze a [Ethereum](https://ethereum.org/) platforma. Workshop představí základní koncepty chytrých kontraktů a ukáže, jak Ethereum mění způsob, jakým můžeme navrhovat organizace, aplikace a služby. Zaměříme se na nové možnosti pro vývojáře, podnikatele i běžné uživatele - od automatizovaných systémů přes decentralizované organizace až po nové formy spolupráce a správy digitálních zdrojů.
 
 Spolupráce s [Gwei.cz](https://gwei.cz/).
