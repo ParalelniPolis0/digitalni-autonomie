@@ -134,14 +134,13 @@ Aktualizovaný pohled na digitální bezpečnost a soukromí v roce 2025. Worksh
 - Události by měly být rozloženy během roku (ne nahromaděné v jednom období)
 
 ### 4. Personální požadavky
-- Musí mít minimálně dva jmenované autory/přednášející
+- Musí mít minimálně 2 jmenované autory/přednášející
 - Musí mít organizační podporu PP0 Events
 - Mělo by mít relevantní partnery z oboru/komunity
 
 ### 5. Pravidla účasti
 - Musí mít systém pro registraci/RSVP
 - Musí specifikovat, zda je potřeba speciální vybavení (např. notebook)
-- Musí dodržovat kapacitní limity místa konání
  
 ### 6. Dokumentace
 - Musí mít jedinečný identifikační kód (ve tvaru `DA00`, pro nepotvrzené událostí `DAXX`)
