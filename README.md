@@ -10,7 +10,7 @@ Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organiz
 
 | | Téma | Termín |
 | --- | --- | --- |
-| `DA01` | [Decentralizovaná spolupráce na kódu (Radicle)](#da01---decentralizovan%C3%A1-spolupr%C3%A1ce-na-k%C3%B3du-radicle) | Leden 2025 |
+| `DA01` | [Decentralizovaná spolupráce na kódu (Radicle)](#da01---decentralizovan%C3%A1-spolupr%C3%A1ce-na-k%C3%B3du-radicle) | ~~Leden 2025~~ Posunuto |
 | `DA02` | [Decentralizované sociální sítě](#da02---decentralizovan%C3%A9-soci%C3%A1ln%C3%AD-s%C3%ADt%C4%9B) | Březen 2025 |
 | `DA03` | [Svobodné rádiové sítě (Reticulum)](#da03---svobodn%C3%A9-r%C3%A1diov%C3%A9-s%C3%ADt%C4%9B-reticulum) | Červen 2025 |
 | `DA04` | [Soukromé AI](#da04---soukrom%C3%A9-ai) | TBD 2025 |
@@ -27,9 +27,9 @@ Vstupné na všechny události je **zdarma**, pokud není uvedeno jinak. Organiz
 
 | Město | Datum | Místo | Kapacita | RSVP |
 | --- | --- | --- | --- | --- |
-| Praha | 21.1.2025* | [Ambasáda](https://ambasada.cz/)*<br>Pod kaštany 12, Praha 6 | 50 lidí | https://lu.ma/557bfaya |
-| Košice | 23.1.2025 | [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/)<br>Hlavná 36, Košice | 30 lidí | TBA |
-| Brno | 29.1.2025* | TBA | 50 lidí | https://lu.ma/v8dr36eb |
+| Praha | ??.2025 | [Ambasáda](https://ambasada.cz/)*<br>Pod kaštany 12, Praha 6 | 50 lidí | https://lu.ma/557bfaya |
+| Košice | ??.2025 | [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/)<br>Hlavná 36, Košice | 30 lidí | TBA |
+| Brno | ??.2025* | TBA | 50 lidí | https://lu.ma/v8dr36eb |
 
 Seznámení s platformou [Radicle](https://radicle.xyz/), která nabízí nový způsob spolupráce na softwarových projektech bez závislosti na centralizovaných službách jako GitHub. Dozvíte se, jak Radicle funguje, v čem se liší od běžných platforem a jaké přináší výhody pro vývojáře i open-source komunity. Součástí bude teoretický úvod i praktický workshop, kde si vše vyzkoušíme. Notebook si vezměte sebou!
 
